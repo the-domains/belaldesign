@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. '
-datePublished: '2016-04-08T20:52:23.664Z'
-dateModified: '2016-04-08T20:47:57.152Z'
+datePublished: '2016-04-08T20:53:11.099Z'
+dateModified: '2016-04-08T20:52:43.748Z'
 title: Getting Started on The Grid
 author: []
 authors: []
